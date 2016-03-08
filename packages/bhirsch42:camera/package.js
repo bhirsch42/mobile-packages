@@ -1,8 +1,8 @@
 Package.describe({
-  name: "mdg:camera",
+  name: "bhirsch:camera",
   summary: "Photos with one function call on desktop and mobile.",
-  version: "1.4.0",
-  git: "https://github.com/meteor/mobile-packages"
+  version: "1.0.0",
+  git: "https://github.com/bhirsch42/mobile-packages"
 });
 
 Cordova.depends({
